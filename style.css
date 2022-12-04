@@ -1,5 +1,6 @@
 body {
     background-color: darksalmon;
+    margin: 0;
 }
 
 h1 {
@@ -9,6 +10,7 @@ h1 {
     background-color: black;
     width: 100%;
     padding: 20px;
+    margin: 0;
 }
 
 .container {
